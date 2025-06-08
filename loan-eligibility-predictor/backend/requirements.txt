@@ -1,0 +1,8 @@
+FastAPI
+pydantic
+scikit-learn
+numpy
+uvicorn
+openai
+flask
+flask-cors
